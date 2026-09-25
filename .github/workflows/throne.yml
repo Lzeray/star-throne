@@ -1,0 +1,54 @@
+name: Star Throne
+
+on:
+  watch:
+    types: [started]      # someone starred the repo → battle right away
+  schedule:
+    - cron: '17 * * * *'  # hourly recount: catches unstars, star growth and birthdays
+  workflow_dispatch:      # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: star-throne
+  cancel-in-progress: false
+
+jobs:
+  throne:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Restore contenders cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: throne-users-${{ github.run_id }}
+          restore-keys: throne-users-
+
+      - name: Battle for the thrones
+        id: throne
+        run: node scripts/throne.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Proclaim the results
+        env:
+          HEADLINE: ${{ steps.throne.outputs.headline }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets data
+          if git diff --cached --quiet; then
+            echo "Nothing changed in the realm."
+            exit 0
+          fi
+          git commit -m "${HEADLINE:-📜 Update the thrones}"
+          git pull --rebase --autostash
+          git push
