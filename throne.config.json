@@ -1,0 +1,22 @@
+{
+  "title": "THE STAR THRONE",
+  "tagline": "Star this repo. The mightiest stargazer of each age takes the crown.",
+
+  "emperor": { "id": "emperor", "name": "Imperial", "title": "Emperor", "emoji": "👑", "color": "#ffd166" },
+
+  "leagues": [
+    { "id": "hatchlings", "name": "Hatchlings", "emoji": "🐣", "color": "#7ee0a1", "minYears": 0, "maxYears": 1 },
+    { "id": "squires",    "name": "Squires",    "emoji": "🗡️", "color": "#6fb6ff", "minYears": 1, "maxYears": 3 },
+    { "id": "knights",    "name": "Knights",    "emoji": "🛡️", "color": "#c792ff", "minYears": 3, "maxYears": 7 },
+    { "id": "ancients",   "name": "Ancients",   "emoji": "🐉", "color": "#ff9e6b", "minYears": 7, "maxYears": null }
+  ],
+
+  "excludeOwner": true,
+  "exclude": [],
+
+  "refreshHours": 24,
+  "maxFetchPerRun": 600,
+  "chronicleShown": 12,
+  "chronicleStored": 200,
+  "hallOfFameSize": 10
+}
