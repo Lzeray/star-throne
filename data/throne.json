@@ -3,18 +3,10 @@
   "founded": "2026-09-25T22:46:20.264Z",
   "thrones": {
     "emperor": {
-      "king": {
-        "login": "Aydar-art",
-        "since": "2026-09-26T06:14:40.187Z",
-        "crownedWith": 0
-      }
+      "king": null
     },
     "squires": {
-      "king": {
-        "login": "Aydar-art",
-        "since": "2026-09-26T06:14:40.187Z",
-        "crownedWith": 0
-      }
+      "king": null
     }
   },
   "reigns": [
@@ -22,16 +14,29 @@
       "throne": "emperor",
       "login": "Aydar-art",
       "from": "2026-09-26T06:14:40.187Z",
-      "to": null
+      "to": "2026-09-26T06:29:09.424Z"
     },
     {
       "throne": "squires",
       "login": "Aydar-art",
       "from": "2026-09-26T06:14:40.187Z",
-      "to": null
+      "to": "2026-09-26T06:29:09.424Z"
     }
   ],
   "chronicle": [
+    {
+      "at": "2026-09-26T06:29:09.424Z",
+      "throne": "squires",
+      "type": "abdicated",
+      "to": null,
+      "old": {
+        "login": "Aydar-art",
+        "stars": 0,
+        "reignMs": 869237
+      },
+      "new": null,
+      "imperialToo": true
+    },
     {
       "at": "2026-09-26T06:14:40.187Z",
       "throne": "squires",
