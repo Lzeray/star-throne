@@ -12,6 +12,7 @@
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 
 const ROOT = process.env.THRONE_ROOT || process.cwd();
 const P = (...a) => path.join(ROOT, ...a);
@@ -292,7 +293,7 @@ function eventText(e, md = true) {
 const link = l => `[@${l}](https://github.com/${l})`;
 const avatar = (l, size = 20) => `<img src="https://github.com/${l}.png?size=${size * 2}" width="${size}" height="${size}" alt="">`;
 
-function renderSection() {
+function renderSection(svgVersion) {
   const rows = THRONES.map(t => {
     const c = courts[t.id];
     const since = state.thrones[t.id]?.king?.since;
@@ -327,7 +328,7 @@ function renderSection() {
   const census = config.leagues.map(t => `${t.emoji} ${courts[t.id].size}`).join(' · ');
   const lastBattle = state.chronicle[0] ? ` · last battle ${fmtDate(state.chronicle[0].at)}` : '';
 
-  return `<p align="center"><img src="assets/throne.svg" width="100%" alt="The Star Throne — current rulers"></p>
+  return `<p align="center"><img src="assets/throne.svg?v=${svgVersion}" width="100%" alt="The Star Throne — current rulers"></p>
 
 ## ⚔️ The Thrones
 
@@ -346,14 +347,14 @@ ${chronicle}
 ${hall}${dynastyLine ? `\n\n${dynastyLine}` : ''}`;
 }
 
-async function renderReadme() {
+async function renderReadme(svgVersion) {
   const file = P('README.md');
   const START = '<!-- THRONE:START -->', END = '<!-- THRONE:END -->';
   let readme = existsSync(file) ? await readFile(file, 'utf8') : `${START}\n${END}\n`;
   if (!readme.includes(START) || !readme.includes(END)) readme = `${START}\n${END}\n\n${readme}`;
   const before = readme.slice(0, readme.indexOf(START) + START.length);
   const after = readme.slice(readme.indexOf(END));
-  await writeText(file, `${before}\n${renderSection()}\n${after}`);
+  await writeText(file, `${before}\n${renderSection(svgVersion)}\n${after}`);
 }
 
 // ───────────────────────────── Banner SVG ─────────────────────────────
@@ -443,14 +444,16 @@ async function renderSvg() {
 </svg>
 `;
   await writeText(P('assets', 'throne.svg'), svg);
+  // Cache-buster: browsers and GitHub keep the old picture for a while unless the URL changes.
+  return createHash('sha1').update(svg).digest('hex').slice(0, 10);
 }
 
 // ───────────────────────────── Write everything ─────────────────────────────
 
 await writeText(statePath, JSON.stringify(state, null, 2) + '\n');
 await writeText(cachePath, JSON.stringify(cache));
-await renderSvg();
-await renderReadme();
+const svgVersion = await renderSvg();
+await renderReadme(svgVersion);
 
 for (const e of events) console.log(eventText(e, false));
 if (!events.length) console.log('No change of power.');
