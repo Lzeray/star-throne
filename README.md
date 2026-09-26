@@ -12,21 +12,25 @@
 
 | Throne | Account age | Ruler | Power | Reign | Next in line |
 |---|---|---|---|---|---|
-| 👑 **Emperor** | any age | *vacant — star to claim* | — | — | — |
+| 👑 **Emperor** | any age | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | ★ 0 | < 1 day | — |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
-| 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
+| 🗡️ **Squires** | 1–3 years | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | ★ 0 | < 1 day | — |
 | 🛡️ **Knights** | 3–7 years | *vacant — star to claim* | — | — | — |
 | 🐉 **Ancients** | 7+ years | *vacant — star to claim* | — | — | — |
 
-<sub>0 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 0 · 🐉 0</sub>
+<sub>1 contenders in the realm — 🐣 0 · 🗡️ 1 · 🛡️ 0 · 🐉 0 · last battle 2026-09-26</sub>
 
 ## 📜 The Chronicle
 
-_The realm is quiet. Nobody has claimed a throne yet._
+- <sub>2026-09-26 06:14 UTC</sub> 👑 [@Aydar-art](https://github.com/Aydar-art) claimed both the empty 🗡️ Squires throne and the 👑 Imperial crown with ★0.
 
 ## 🏛️ Hall of Fame — longest reigns
 
-_No reigns yet._
+| # | Ruler | Throne | Reign | |
+|---|---|---|---|---|
+| 🥇 | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | 🗡️ Squires | < 1 day | **👑 reigning** |
+
+**👑 The Imperial line:** [@Aydar-art](https://github.com/Aydar-art) <sub>(reigning)</sub>
 <!-- THRONE:END -->
 
 ## 📖 The Law of the Realm
