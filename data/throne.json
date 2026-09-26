@@ -3,10 +3,21 @@
   "founded": "2026-09-25T22:46:20.264Z",
   "thrones": {
     "emperor": {
-      "king": null
+      "king": {
+        "login": "UnKnownHelp69",
+        "since": "2026-09-26T11:28:23.147Z",
+        "crownedWith": 1
+      }
     },
     "squires": {
       "king": null
+    },
+    "knights": {
+      "king": {
+        "login": "UnKnownHelp69",
+        "since": "2026-09-26T11:28:23.147Z",
+        "crownedWith": 1
+      }
     }
   },
   "reigns": [
@@ -21,9 +32,33 @@
       "login": "Aydar-art",
       "from": "2026-09-26T06:14:40.187Z",
       "to": "2026-09-26T06:29:09.424Z"
+    },
+    {
+      "throne": "emperor",
+      "login": "UnKnownHelp69",
+      "from": "2026-09-26T11:28:23.147Z",
+      "to": null
+    },
+    {
+      "throne": "knights",
+      "login": "UnKnownHelp69",
+      "from": "2026-09-26T11:28:23.147Z",
+      "to": null
     }
   ],
   "chronicle": [
+    {
+      "at": "2026-09-26T11:28:23.147Z",
+      "throne": "knights",
+      "type": "vacant",
+      "to": null,
+      "old": null,
+      "new": {
+        "login": "UnKnownHelp69",
+        "stars": 1
+      },
+      "imperialToo": true
+    },
     {
       "at": "2026-09-26T06:29:09.424Z",
       "throne": "squires",

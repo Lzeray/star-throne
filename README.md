@@ -6,22 +6,23 @@
 </p>
 
 <!-- THRONE:START -->
-<p align="center"><img src="assets/throne.svg?v=e9c6a25460" width="100%" alt="The Star Throne — current rulers"></p>
+<p align="center"><img src="assets/throne.svg?v=a3d56f3e80" width="100%" alt="The Star Throne — current rulers"></p>
 
 ## ⚔️ The Thrones
 
 | Throne | Account age | Ruler | Power | Reign | Next in line |
 |---|---|---|---|---|---|
-| 👑 **Emperor** | any age | *vacant — star to claim* | — | — | — |
+| 👑 **Emperor** | any age | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | < 1 day | — |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
 | 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
-| 🛡️ **Knights** | 3–7 years | *vacant — star to claim* | — | — | — |
+| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | < 1 day | — |
 | 🐉 **Ancients** | 7+ years | *vacant — star to claim* | — | — | — |
 
-<sub>0 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 0 · 🐉 0 · last battle 2026-09-26</sub>
+<sub>1 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 1 · 🐉 0 · last battle 2026-09-26</sub>
 
 ## 📜 The Chronicle
 
+- <sub>2026-09-26 11:28 UTC</sub> 👑 [@UnKnownHelp69](https://github.com/UnKnownHelp69) claimed both the empty 🛡️ Knights throne and the 👑 Imperial crown with ★1.
 - <sub>2026-09-26 06:29 UTC</sub> 🏳️ [@Aydar-art](https://github.com/Aydar-art) abdicated both the 🗡️ Squires throne and the 👑 Imperial crown after 14 min by unstarring the realm. The throne stands empty.
 - <sub>2026-09-26 06:14 UTC</sub> 👑 [@Aydar-art](https://github.com/Aydar-art) claimed both the empty 🗡️ Squires throne and the 👑 Imperial crown with ★0.
 
@@ -30,8 +31,9 @@
 | # | Ruler | Throne | Reign | |
 |---|---|---|---|---|
 | 🥇 | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | 🗡️ Squires | < 1 day | ended 2026-09-26 |
+| 🥈 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | < 1 day | **👑 reigning** |
 
-**👑 The Imperial line:** [@Aydar-art](https://github.com/Aydar-art) <sub>(< 1 day)</sub>
+**👑 The Imperial line:** [@Aydar-art](https://github.com/Aydar-art) <sub>(< 1 day)</sub> → [@UnKnownHelp69](https://github.com/UnKnownHelp69) <sub>(reigning)</sub>
 <!-- THRONE:END -->
 
 ## 📖 The Law of the Realm
