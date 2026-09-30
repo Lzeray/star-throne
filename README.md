@@ -12,10 +12,10 @@
 
 | Throne | Account age | Ruler | Power | Reign | Next in line |
 |---|---|---|---|---|---|
-| 👑 **Emperor** | any age | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | 3 days | — |
+| 👑 **Emperor** | any age | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | 4 days | — |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
 | 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
-| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | 3 days | — |
+| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | 4 days | — |
 | 🐉 **Ancients** | 7+ years | *vacant — star to claim* | — | — | — |
 
 <sub>1 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 1 · 🐉 0 · last battle 2026-09-26</sub>
@@ -30,7 +30,7 @@
 
 | # | Ruler | Throne | Reign | |
 |---|---|---|---|---|
-| 🥇 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | 3 days | **👑 reigning** |
+| 🥇 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | 4 days | **👑 reigning** |
 | 🥈 | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | 🗡️ Squires | < 1 day | ended 2026-09-26 |
 
 **👑 The Imperial line:** [@Aydar-art](https://github.com/Aydar-art) <sub>(< 1 day)</sub> → [@UnKnownHelp69](https://github.com/UnKnownHelp69) <sub>(reigning)</sub>
