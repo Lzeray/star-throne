@@ -14,9 +14,9 @@
     },
     "knights": {
       "king": {
-        "login": "ornaras",
-        "since": "2026-10-01T09:08:37.474Z",
-        "crownedWith": 2
+        "login": "Proger0014",
+        "since": "2026-10-01T09:53:19.661Z",
+        "crownedWith": 8
       }
     },
     "ancients": {
@@ -68,10 +68,31 @@
       "throne": "knights",
       "login": "ornaras",
       "from": "2026-10-01T09:08:37.474Z",
+      "to": "2026-10-01T09:53:19.661Z"
+    },
+    {
+      "throne": "knights",
+      "login": "Proger0014",
+      "from": "2026-10-01T09:53:19.661Z",
       "to": null
     }
   ],
   "chronicle": [
+    {
+      "at": "2026-10-01T09:53:19.661Z",
+      "throne": "knights",
+      "type": "overthrown",
+      "to": null,
+      "old": {
+        "login": "ornaras",
+        "stars": 2,
+        "reignMs": 2682187
+      },
+      "new": {
+        "login": "Proger0014",
+        "stars": 8
+      }
+    },
     {
       "at": "2026-10-01T09:08:37.474Z",
       "throne": "knights",
