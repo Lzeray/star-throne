@@ -6,22 +6,23 @@
 </p>
 
 <!-- THRONE:START -->
-<p align="center"><img src="assets/throne.svg?v=8e997e3e48" width="100%" alt="The Star Throne — current rulers"></p>
+<p align="center"><img src="assets/throne.svg?v=7e80341096" width="100%" alt="The Star Throne — current rulers"></p>
 
 ## ⚔️ The Thrones
 
 | Throne | Account age | Ruler | Power | Reign | Next in line |
 |---|---|---|---|---|---|
-| 👑 **Emperor** | any age | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | < 1 day | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★1 <sub>(needs +9)</sub> |
+| 👑 **Emperor** | any age | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | < 1 day | [@ornaras](https://github.com/ornaras) ★2 <sub>(needs +8)</sub> |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
 | 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
-| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | ★ 1 | 4 days | — |
+| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/ornaras.png?size=40" width="20" height="20" alt=""> [@ornaras](https://github.com/ornaras) | ★ 2 | < 1 day | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★1 <sub>(needs +2)</sub> |
 | 🐉 **Ancients** | 7+ years | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | < 1 day | — |
 
-<sub>2 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 1 · 🐉 1 · last battle 2026-10-01</sub>
+<sub>3 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 2 · 🐉 1 · last battle 2026-10-01</sub>
 
 ## 📜 The Chronicle
 
+- <sub>2026-10-01 09:08 UTC</sub> ⚔️ [@ornaras](https://github.com/ornaras) (★2) overthrew [@UnKnownHelp69](https://github.com/UnKnownHelp69) (★1) and seized the 🛡️ Knights throne after a reign of 4 days.
 - <sub>2026-10-01 07:24 UTC</sub> ⚔️ [@Sinketsu](https://github.com/Sinketsu) (★9) overthrew [@UnKnownHelp69](https://github.com/UnKnownHelp69) (★1) and seized the 👑 Imperial throne after a reign of 4 days.
 - <sub>2026-10-01 07:24 UTC</sub> 👑 [@Sinketsu](https://github.com/Sinketsu) claimed the empty 🐉 Ancients throne with ★9.
 - <sub>2026-09-26 11:28 UTC</sub> 👑 [@UnKnownHelp69](https://github.com/UnKnownHelp69) claimed both the empty 🛡️ Knights throne and the 👑 Imperial crown with ★1.
@@ -32,9 +33,10 @@
 
 | # | Ruler | Throne | Reign | |
 |---|---|---|---|---|
-| 🥇 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | 4 days | **👑 reigning** |
+| 🥇 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | 4 days | ended 2026-10-01 |
 | 🥈 | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | 🗡️ Squires | < 1 day | ended 2026-09-26 |
 | 🥉 | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | 🐉 Ancients | < 1 day | **👑 reigning** |
+| 4 | <img src="https://github.com/ornaras.png?size=40" width="20" height="20" alt=""> [@ornaras](https://github.com/ornaras) | 🛡️ Knights | < 1 day | **👑 reigning** |
 
 **👑 The Imperial line:** [@Aydar-art](https://github.com/Aydar-art) <sub>(< 1 day)</sub> → [@UnKnownHelp69](https://github.com/UnKnownHelp69) <sub>(4 days)</sub> → [@Sinketsu](https://github.com/Sinketsu) <sub>(reigning)</sub>
 <!-- THRONE:END -->

@@ -14,9 +14,9 @@
     },
     "knights": {
       "king": {
-        "login": "UnKnownHelp69",
-        "since": "2026-09-26T11:28:23.147Z",
-        "crownedWith": 1
+        "login": "ornaras",
+        "since": "2026-10-01T09:08:37.474Z",
+        "crownedWith": 2
       }
     },
     "ancients": {
@@ -50,7 +50,7 @@
       "throne": "knights",
       "login": "UnKnownHelp69",
       "from": "2026-09-26T11:28:23.147Z",
-      "to": null
+      "to": "2026-10-01T09:08:37.474Z"
     },
     {
       "throne": "emperor",
@@ -63,9 +63,30 @@
       "login": "Sinketsu",
       "from": "2026-10-01T07:24:18.008Z",
       "to": null
+    },
+    {
+      "throne": "knights",
+      "login": "ornaras",
+      "from": "2026-10-01T09:08:37.474Z",
+      "to": null
     }
   ],
   "chronicle": [
+    {
+      "at": "2026-10-01T09:08:37.474Z",
+      "throne": "knights",
+      "type": "overthrown",
+      "to": null,
+      "old": {
+        "login": "UnKnownHelp69",
+        "stars": 1,
+        "reignMs": 423614327
+      },
+      "new": {
+        "login": "ornaras",
+        "stars": 2
+      }
+    },
     {
       "at": "2026-10-01T07:24:18.008Z",
       "throne": "emperor",
