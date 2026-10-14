@@ -4,9 +4,9 @@
   "thrones": {
     "emperor": {
       "king": {
-        "login": "Serg-Norseman",
-        "since": "2026-10-01T10:38:14.229Z",
-        "crownedWith": 308
+        "login": "Sinketsu",
+        "since": "2026-10-14T11:54:40.494Z",
+        "crownedWith": 9
       }
     },
     "squires": {
@@ -21,9 +21,9 @@
     },
     "ancients": {
       "king": {
-        "login": "Serg-Norseman",
-        "since": "2026-10-01T10:38:14.229Z",
-        "crownedWith": 308
+        "login": "Sinketsu",
+        "since": "2026-10-14T11:54:40.494Z",
+        "crownedWith": 9
       }
     }
   },
@@ -80,16 +80,44 @@
       "throne": "emperor",
       "login": "Serg-Norseman",
       "from": "2026-10-01T10:38:14.229Z",
-      "to": null
+      "to": "2026-10-14T11:54:40.494Z"
     },
     {
       "throne": "ancients",
       "login": "Serg-Norseman",
       "from": "2026-10-01T10:38:14.229Z",
+      "to": "2026-10-14T11:54:40.494Z"
+    },
+    {
+      "throne": "emperor",
+      "login": "Sinketsu",
+      "from": "2026-10-14T11:54:40.494Z",
+      "to": null
+    },
+    {
+      "throne": "ancients",
+      "login": "Sinketsu",
+      "from": "2026-10-14T11:54:40.494Z",
       "to": null
     }
   ],
   "chronicle": [
+    {
+      "at": "2026-10-14T11:54:40.494Z",
+      "throne": "ancients",
+      "type": "abdicated",
+      "to": null,
+      "old": {
+        "login": "Serg-Norseman",
+        "stars": 308,
+        "reignMs": 1127786265
+      },
+      "new": {
+        "login": "Sinketsu",
+        "stars": 9
+      },
+      "imperialToo": true
+    },
     {
       "at": "2026-10-01T10:38:14.229Z",
       "throne": "ancients",
