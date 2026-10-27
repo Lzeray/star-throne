@@ -6,7 +6,7 @@
 </p>
 
 <!-- THRONE:START -->
-<p align="center"><img src="assets/throne.svg?v=6a6cee7481" width="100%" alt="The Star Throne — current rulers"></p>
+<p align="center"><img src="assets/throne.svg?v=bba6c0f456" width="100%" alt="The Star Throne — current rulers"></p>
 
 ## ⚔️ The Thrones
 
