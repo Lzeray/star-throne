@@ -15,7 +15,7 @@
 | 👑 **Emperor** | any age | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 14 days | [@Proger0014](https://github.com/Proger0014) ★8 <sub>(needs +2)</sub> |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
 | 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
-| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | ★ 8 | 27 days | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★2 <sub>(needs +7)</sub> |
+| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | ★ 8 | 27 days | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★3 <sub>(needs +6)</sub> |
 | 🐉 **Ancients** | 7+ years | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 14 days | — |
 
 <sub>4 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 3 · 🐉 1 · last battle 2026-10-14</sub>
