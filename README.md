@@ -12,11 +12,11 @@
 
 | Throne | Account age | Ruler | Power | Reign | Next in line |
 |---|---|---|---|---|---|
-| 👑 **Emperor** | any age | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 16 days | [@Proger0014](https://github.com/Proger0014) ★8 <sub>(needs +2)</sub> |
+| 👑 **Emperor** | any age | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 17 days | [@Proger0014](https://github.com/Proger0014) ★8 <sub>(needs +2)</sub> |
 | 🐣 **Hatchlings** | < 1 year | *vacant — star to claim* | — | — | — |
 | 🗡️ **Squires** | 1–3 years | *vacant — star to claim* | — | — | — |
-| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | ★ 8 | 29 days | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★3 <sub>(needs +6)</sub> |
-| 🐉 **Ancients** | 7+ years | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 16 days | — |
+| 🛡️ **Knights** | 3–7 years | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | ★ 8 | 30 days | [@UnKnownHelp69](https://github.com/UnKnownHelp69) ★3 <sub>(needs +6)</sub> |
+| 🐉 **Ancients** | 7+ years | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | ★ 9 | 17 days | — |
 
 <sub>4 contenders in the realm — 🐣 0 · 🗡️ 0 · 🛡️ 3 · 🐉 1 · last battle 2026-10-14</sub>
 
@@ -36,8 +36,8 @@
 
 | # | Ruler | Throne | Reign | |
 |---|---|---|---|---|
-| 🥇 | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | 🛡️ Knights | 29 days | **👑 reigning** |
-| 🥈 | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | 🐉 Ancients | 16 days | **👑 reigning** |
+| 🥇 | <img src="https://github.com/Proger0014.png?size=40" width="20" height="20" alt=""> [@Proger0014](https://github.com/Proger0014) | 🛡️ Knights | 30 days | **👑 reigning** |
+| 🥈 | <img src="https://github.com/Sinketsu.png?size=40" width="20" height="20" alt=""> [@Sinketsu](https://github.com/Sinketsu) | 🐉 Ancients | 17 days | **👑 reigning** |
 | 🥉 | <img src="https://github.com/Serg-Norseman.png?size=40" width="20" height="20" alt=""> [@Serg-Norseman](https://github.com/Serg-Norseman) | 🐉 Ancients | 13 days | ended 2026-10-14 |
 | 4 | <img src="https://github.com/UnKnownHelp69.png?size=40" width="20" height="20" alt=""> [@UnKnownHelp69](https://github.com/UnKnownHelp69) | 🛡️ Knights | 4 days | ended 2026-10-01 |
 | 5 | <img src="https://github.com/Aydar-art.png?size=40" width="20" height="20" alt=""> [@Aydar-art](https://github.com/Aydar-art) | 🗡️ Squires | < 1 day | ended 2026-09-26 |
